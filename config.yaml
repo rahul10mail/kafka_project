@@ -1,0 +1,15 @@
+{
+  's3_bucket': {
+    'name': 'kafkastmktrahul',
+    'folder': 'prices'
+  },
+
+  'kafka': {
+    'topic': 'stocks',
+    'socket':'13.201.25.10:9092'
+  },
+
+  'dataset': {
+    'stock': 'data/stock.csv'
+  }
+}
